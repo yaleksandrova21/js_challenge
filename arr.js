@@ -7,3 +7,5 @@ for (var i = 0; i < m; i++){
     for (var j = 0; j < n; j++){
         mas[i][j] = 0;
 }}
+
+console.log("ggggggggggggggggggg");
